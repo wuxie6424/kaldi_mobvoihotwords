@@ -1,5 +1,6 @@
 # kaldi_mobvoihotwords
-kaldi_mobvoihotwords是我基于开源的语音识别工具kaldi写的。我把mobvoihotwords唤醒词识别做了一些修改。  
+kaldi_mobvoihotwords是我基于开源的语音识别工具kaldi写的。  
+我把mobvoihotwords唤醒词识别做了一些修改。    
   
 我在csdn上写了一篇kaldi_mobvoihotwords的使用教程：      
 kaldi mobvoihotwords 唤醒词识别教程  
