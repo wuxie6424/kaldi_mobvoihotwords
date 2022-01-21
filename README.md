@@ -4,10 +4,8 @@ kaldi_mobvoihotwords是我基于开源的语音识别工具kaldi写的。
   
 我在csdn上写了一篇kaldi_mobvoihotwords的使用教程：      
 kaldi mobvoihotwords 唤醒词识别教程  
-作者：关林生    
 邮箱：  
-wuxie6424@gmail.com      
-2755244572@qq.com    
+wuxie6424@gmail.com    
 如果有问题，可以email我。   
 本教程分为四个部分：  
 一是如何在ubuntu安装配置kaldi。  
